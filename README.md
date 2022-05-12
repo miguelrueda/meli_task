@@ -11,6 +11,10 @@ This project can be run directly with IntelliJ or it can be run through cmd with
 ```
 # Getting Started
 
+### AWS Endpoint
+```
+http://meli-env.eba-y4ffzpgm.us-west-1.elasticbeanstalk.com/
+```
 ### Web Service
 
 This project enables 2 endpoints that are available at:
@@ -20,7 +24,7 @@ This project enables 2 endpoints that are available at:
 ```
  and 
 ```
-> POST | GET http://localhost:8080/topsecret_split/{satelliteName}
+> (2) POST | GET http://localhost:8080/topsecret_split/{satelliteName}
 ```
 
 ### DTO used
